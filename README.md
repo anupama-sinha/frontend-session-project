@@ -1,3 +1,5 @@
+Covered in [Youtube Session](https://youtu.be/-VfDgLa8Q3M)
+
 ## CSS(Cascaded Style Sheets)
 
 ### Inclusion Options
