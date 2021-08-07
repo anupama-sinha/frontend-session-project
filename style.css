@@ -1,0 +1,22 @@
+h3{
+    color:blueviolet; 
+    background-color: grey;
+}
+
+#lists{
+    color: blueviolet;
+}
+
+.links{
+    color:maroon;
+}
+
+.container{
+    height: 70px;
+    width: 70px;
+    background-color: aquamarine;
+    border: 10px red ridge;
+    position: static;
+    margin: 10px;
+    padding: 10px;
+}
